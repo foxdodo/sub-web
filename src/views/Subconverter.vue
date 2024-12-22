@@ -253,6 +253,11 @@ export default {
             label: "customized",
             options: [
               {
+                label: "ACL4SSR修改版",
+                value:
+                  "https://gh.fapcloud.cf/https://raw.githubusercontent.com/foxdodo/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini"
+              },
+              {
                 label: "Maying",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/customized/maying.ini"
